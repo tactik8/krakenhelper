@@ -7,5 +7,5 @@ setup(
     author='TActik8',
     author_email='admin@tactik8.com',
     packages=['kraken_helper'],  #same as name
-    install_requires=['requests', 'json'], #external packages as dependencies
+    install_requires=['requests'], #external packages as dependencies
 )
