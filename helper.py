@@ -1,7 +1,7 @@
 # Test helper function
 
 class Helper:
-    def__init__(self):
+    def __init__(self):
         self.test = 'test'
   
     def get(self):

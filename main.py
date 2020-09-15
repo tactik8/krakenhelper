@@ -1,4 +1,4 @@
 from helper import Helper
 
-test = helper()
+test = Helper()
 print(test.get())
