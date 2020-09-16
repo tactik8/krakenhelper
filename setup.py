@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='krakenhelper',
-    version='1.0.2',
+    version='1.0.3',
     description='kraken helper module',
     author='Tactik8',
     author_email='admin@tactik8.com',
