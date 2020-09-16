@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+krakenhelper/helper.py
+krakenhelper/helper_flask.py
+krakenhelper/krknapi.py
+krakenhelper.egg-info/PKG-INFO
+krakenhelper.egg-info/SOURCES.txt
+krakenhelper.egg-info/dependency_links.txt
+krakenhelper.egg-info/requires.txt
+krakenhelper.egg-info/top_level.txt
